@@ -30,31 +30,27 @@
 Berikut adalah beberapa teknologi dan *tools* yang saya kuasai dalam ekosistem data:
 
 **Bahasa & Database:**
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,r,sql,bash" />
-  </a>
+<p>
+  <img src="https://skillicons.dev/icons?i=python,r,sql,bash" />
 </p>
 
 **Analisis & Machine Learning:**
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=numpy,pandas,sklearn,jupyter,keras,tensorflow,pytorch" />
-  </a>
+<p>
+  <img src="https://skillicons.dev/icons?i=numpy,pandas,scikitlearn,jupyter,tensorflow,pytorch" />
 </p>
 
 **Visualisasi Data & BI:**
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=matplotlib,seaborn,tableau,powerbi,excel" />
-  </a>
+<p>
+  <img src="https://img.shields.io/badge/Matplotlib-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-76B900?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=Tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=Power%20BI&logoColor=black" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=Microsoft%20Excel&logoColor=white" />
 </p>
 
 **Tools & Platform:**
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,docker,aws,gcp,spark" />
-  </a>
+<p>
+  <img src="https://skillicons.dev/icons?i=git,docker,aws,gcp,spark" />
 </p>
 
 ---
@@ -62,12 +58,8 @@ Berikut adalah beberapa teknologi dan *tools* yang saya kuasai dalam ekosistem d
 ### 📊 Statistik GitHub Saya
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=HorasioGit&show_icons=true&theme=tokyonight&locale=id" alt="HorasioGit GitHub Stats" style="width: 49%; display: inline-block; vertical-align: top;"/>
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HorasioGit&layout=compact&theme=tokyonight&locale=id" alt="Top Languages" style="width: 49%; display: inline-block; vertical-align: top;"/>
-  </a>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=HorasioGit&show_icons=true&theme=tokyonight&locale=id" alt="HorasioGit GitHub Stats"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=HorasioGit&layout=compact&theme=tokyonight&locale=id" alt="Top Languages"/>
 </p>
 
 ---
@@ -76,7 +68,7 @@ Berikut adalah beberapa teknologi dan *tools* yang saya kuasai dalam ekosistem d
 
 Mari terhubung dan berdiskusi lebih lanjut!
 
-<p align="left">
+<p>
   <a href="https://linkedin.com/in/horasio-nissi-immanuel-65b886332" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=social&logo=linkedin" alt="LinkedIn"/>
   </a>
