@@ -88,7 +88,7 @@ Mari terhubung dan berdiskusi lebih lanjut!
 
 <p>
   <a href="https://linkedin.com/in/horasio-nissi-immanuel-65b886332">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://www.kaggle.com/horasionissiimmanuel" target="_blank">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=social&logo=Kaggle" alt="Kaggle"/>
