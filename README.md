@@ -63,7 +63,6 @@ Berikut adalah beberapa teknologi dan *tools* yang saya kuasai dalam ekosistem d
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat&logo=apachespark&logoColor=white" />
 </p>
 
 ---
@@ -89,7 +88,7 @@ Mari terhubung dan berdiskusi lebih lanjut!
 
 <p>
   <a href="https://linkedin.com/in/horasio-nissi-immanuel-65b886332">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=social&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://www.kaggle.com/horasionissiimmanuel" target="_blank">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=social&logo=Kaggle" alt="Kaggle"/>
