@@ -33,8 +33,8 @@ Berikut adalah beberapa teknologi dan *tools* yang saya kuasai dalam ekosistem d
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-2496ED?style=flat&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-4285F4?style=flat&logo=c++&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white" />
 </p>
 
 #### 🧠 Analisis & Machine Learning:
