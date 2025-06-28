@@ -25,7 +25,7 @@
 
 ---
 
-### 🛠️ Keterampilan & Teknologi (Sains Data)
+### 🛠️ Keterampilan & Teknologi
 
 Berikut adalah beberapa teknologi dan *tools* yang saya kuasai dalam ekosistem data:
 
