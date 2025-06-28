@@ -51,7 +51,7 @@ Berikut adalah beberapa teknologi dan *tools* yang saya kuasai dalam ekosistem d
   <img src="https://img.shields.io/badge/Matplotlib-3776AB?style=flat&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Seaborn-76B900?style=flat&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white" />
-  <img src="https://img.shields.io/badge/Looker Studio-F2C811?style=flat&logo=lookerstudio&logoColor=black" />
+  <img src="https://img.shields.io/badge/Looker Studio-2496ED?style=flat&logo=lookerstudio&logoColor=white" />
   <img src="https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=white" />
   <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=black" />
 </p>
