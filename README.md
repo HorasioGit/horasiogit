@@ -29,38 +29,35 @@
 
 Berikut adalah beberapa teknologi dan *tools* yang saya kuasai dalam ekosistem data:
 
-### 🛠️ Keterampilan & Teknologi
-
-**🗃️ Bahasa & Database:**
+#### 🗃️ Bahasa & Database:
 <p>
-  <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white" />
-  <img src="https://skillicons.dev/icons?i=sql" />
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white" />
 </p>
 
-**🧠 Analisis & Machine Learning:**
+#### 🧠 Analisis & Machine Learning:
 <p>
   <img src="https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
 </p>
 
-**📊 Visualisasi & BI:**
+#### 📊 Visualisasi & BI:
 <p>
   <img src="https://img.shields.io/badge/Matplotlib-3776AB?style=flat&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Seaborn-76B900?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=Tableau&logoColor=white" />
-  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=Power%20BI&logoColor=black" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=Microsoft%20Excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white" />
 </p>
 
-**⚙️ Tools & Platform:**
+#### ⚙️ Tools & Platform:
 <p>
-  <img src="https://skillicons.dev/icons?i=git" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white" />
