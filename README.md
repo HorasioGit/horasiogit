@@ -25,7 +25,7 @@
 
 ---
 
-### 🛠️ Keterampilan & Teknologi 
+### 🛠️ Keterampilan & Teknologi (Sains Data)
 
 Berikut adalah beberapa teknologi dan *tools* yang saya kuasai dalam ekosistem data:
 
@@ -39,7 +39,7 @@ Berikut adalah beberapa teknologi dan *tools* yang saya kuasai dalam ekosistem d
 **Analisis & Machine Learning:**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=numpy,pandas,scikitlearn,jupyter,keras,tensorflow,pytorch" />
+    <img src="https://skillicons.dev/icons?i=numpy,pandas,sklearn,jupyter,keras,tensorflow,pytorch" />
   </a>
 </p>
 
