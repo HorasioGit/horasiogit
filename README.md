@@ -63,10 +63,10 @@ Berikut adalah beberapa teknologi dan *tools* yang saya kuasai dalam ekosistem d
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=HorasioGit&show_icons=true&theme=tokyonight&locale=id" alt="HorasioGit GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=HorasioGit&show_icons=true&theme=tokyonight&locale=id" alt="HorasioGit GitHub Stats" style="width: 49%; display: inline-block; vertical-align: top;"/>
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=HorasioGit&layout=compact&theme=tokyonight&locale=id" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HorasioGit&layout=compact&theme=tokyonight&locale=id" alt="Top Languages" style="width: 49%; display: inline-block; vertical-align: top;"/>
   </a>
 </p>
 
