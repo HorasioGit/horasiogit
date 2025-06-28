@@ -16,16 +16,16 @@
 
 ### 👨‍💻 Tentang Saya
 
-- 🔭 &nbsp; Saat ini saya sedang mengerjakan **Proyek Analisis dan Prediksi Konsumsi Listrik**.
-- 🌱 &nbsp; Saya sedang mendalami **Analisis Data Tingkat Lanjut dan Teknik Visualisasi**.
-- 📈 &nbsp; Saya aktif berpartisipasi dalam kompetisi di **Kaggle**.
-- 🤝 &nbsp; Saya terbuka untuk berkolaborasi dalam proyek **riset dan analisis data open source**.
-- 📫 &nbsp; Anda dapat menghubungi saya melalui email di **horasionissiimmanuel@gmail.com**.
-- 📄 &nbsp; Lihat [profil LinkedIn](https://linkedin.com/in/horasio-nissi-immanuel-65b886332) saya untuk detail lebih lanjut.
+* 🔭 Saat ini saya sedang mengerjakan **Proyek Analisis dan Prediksi Konsumsi Listrik**.
+* 🌱 Saya sedang mendalami **Analisis Data Tingkat Lanjut dan Teknik Visualisasi**.
+* 📈 Saya aktif berpartisipasi dalam kompetisi di **Kaggle**.
+* 🤝 Saya terbuka untuk berkolaborasi dalam proyek **riset dan analisis data open source**.
+* 📫 Anda dapat menghubungi saya melalui email di **horasionissiimmanuel@gmail.com**.
+* 📄 Lihat [profil LinkedIn](https://linkedin.com/in/horasio-nissi-immanuel-65b886332) saya untuk detail lebih lanjut.
 
 ---
 
-### 🛠️ Keterampilan & Teknologi (Sains Data)
+### 🛠️ Keterampilan & Teknologi 
 
 Berikut adalah beberapa teknologi dan *tools* yang saya kuasai dalam ekosistem data:
 
@@ -63,10 +63,10 @@ Berikut adalah beberapa teknologi dan *tools* yang saya kuasai dalam ekosistem d
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=HorasioGit&show_icons=true&theme=tokyonight&locale=id" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=HorasioGit&show_icons=true&theme=tokyonight&locale=id" alt="HorasioGit GitHub Stats" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=HorasioGit&layout=compact&theme=tokyonight&locale=id" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=HorasioGit&layout=compact&theme=tokyonight&locale=id" alt="Top Languages" />
   </a>
 </p>
 
