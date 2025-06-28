@@ -69,13 +69,16 @@ Berikut adalah beberapa teknologi dan *tools* yang saya kuasai dalam ekosistem d
 
 ### 📊 Statistik GitHub Saya
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HorasioGit&show_icons=true&theme=tokyonight&locale=id" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HorasioGit&layout=compact&theme=tokyonight&locale=id" />
-</p>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=HorasioGit&show_icons=true&theme=tokyonight&locale=en" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HorasioGit&layout=compact&theme=tokyonight&card_width=500&locale=en" />
+    </td>
+  </tr>
+</table>
 
 ---
 
